@@ -1,7 +1,0 @@
-﻿namespace ProducaoDoces
-{
-    class ProducaoDoces
-    {
-
-    }
-}
